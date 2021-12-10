@@ -13,7 +13,7 @@
     background-attachment: fixed;
     margin-top: 80px;
     height: 100%;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     font-family: 'Francois One', sans-serif;
 }
 .caixa {
@@ -26,7 +26,6 @@
     padding: 1px;
 
 }
-
 
 .animacao:hover {
     width: 90px;
